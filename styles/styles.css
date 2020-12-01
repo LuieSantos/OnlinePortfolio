@@ -1,0 +1,28 @@
+body{
+    font-family: 'Open Sans', serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    color: #ffffff;
+}
+
+.section{
+    height:100vh;
+    width:100vw;
+    position: relative;
+}
+
+.section-grey{
+    background-color: #404040;
+}
+
+.section-container{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#first{
+    /* background-color: #245ba2; */
+}
